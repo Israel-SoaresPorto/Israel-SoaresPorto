@@ -27,8 +27,7 @@ Meu Nome é Israel
 </a>
 </div>
 
-<br>
-<br>
+## GitHub Stats
 
 <div>
 <a href="https://github.com/Israel-SoaresPorto">
