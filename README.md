@@ -10,13 +10,14 @@ Meu Nome é Israel
 ## Ferramentas e Tecnologias que Uso/Estou Aprendendo:
 
 <div style="display: flex;">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width=50px />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width=50px />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50px />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=50px />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px />
+  <img alt="Static Bagde" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+  <img alt="Static Bagde" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-1292899?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-1292899?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-1292899?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next-1292899?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-1292899?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/chakraui-1292899?style=for-the-badge&logo=chakraui&logoColor=white&color=%23319795">
 </div>
 
 ## Contatos
