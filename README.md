@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋, Meu Nome é Israel
 
-Meu Nome é Israel
-
-- 🔭 Eu estou estudando para me tornar um programador/desenvolvedor Front-End
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- 💬 Pergunte-me sobre a carreira de um progrmador/desenvolvedor Front-End
-- 📫 Como me Achar: [Linkedin](https://www.linkedin.com/in/israel-soares-porto-b24bb8241/)
+### Sobre Mim
+👨‍🎓 Estudande de Curso Técnico em Desenvolvimento de Sistemas no SENAI  
+🌈♾️ Pessoa com Transtorno do Espectro Autista  
+🖥️ Foco em Desenvolvimento Front-end e Design de Interfaces(UI Design)  
+🔍 Cusiosidade para descobrir soluções e por em prática  
+💼 Buscando oportunidades na área para desenvolver minhas habilidades e evoluir ainda mais  
 
 ## Ferramentas e Tecnologias que Uso/Estou Aprendendo:
 
@@ -19,6 +19,15 @@ Meu Nome é Israel
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-1292899?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4">
   <img alt="Static Badge" src="https://img.shields.io/badge/chakraui-1292899?style=for-the-badge&logo=chakraui&logoColor=white&color=%23319795">
 </div>
+
+## Projetos onde atuo/atuei  
+
+### Ex enterprise
+Descrição: Projeto de TCC para solucionar uma demanda da empresa Ex Enterprise  
+Tecnologias: React, Next.js, Node.js, MySQL, etc.  
+Meu papel no projeto: Desenvolvimento da interfaçe do projeto, tanto no código e no design, em conjunto com outros desenvolvedores.  
+Desafios que enfrento: Desenvolver a interfaçe de forma intuitiva e responsiva.  
+Link: https://github.com/Kaique-Barbosa/Projeto_Ex_enterprise.git  
 
 ## Contatos
 
