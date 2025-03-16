@@ -10,16 +10,26 @@
 
 ## Ferramentas e Tecnologias que Uso/Estou Aprendendo
 
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26) ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6) ![JavaScript](https://img.shields.io/badge/javascript-1292899?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/nodejs-1292899?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E) ![React](https://img.shields.io/badge/react-1292899?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-1292899?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black) ![TailwindCss](https://img.shields.io/badge/tailwindcss-1292899?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26) 
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6) 
+![JavaScript](https://img.shields.io/badge/javascript-1292899?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E) 
+![NodeJS](https://img.shields.io/badge/nodejs-1292899?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E) 
+![React](https://img.shields.io/badge/react-1292899?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) 
+![NextJS](https://img.shields.io/badge/Next-1292899?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black) 
+![TailwindCss](https://img.shields.io/badge/tailwindcss-1292899?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
 
 ## Projetos em destaque
 
-[![Amigo Secreto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=challenge-amigo-secreto)](https://github.com/Israel-SoaresPorto/challenge-amigo-secreto) [![Anotações](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=anotacoes)](https://github.com/Israel-SoaresPorto/anotacoes)
-[![Amigo Secreto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=Catalogo_de_Filmes)](https://github.com/Israel-SoaresPorto/Catalogo_de_Filmes) [![Amigo Secreto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=decodificador_de_texto)](https://github.com/Israel-SoaresPorto/decodificador_de_texto)
+[![Amigo Secreto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=challenge-amigo-secreto)](https://github.com/Israel-SoaresPorto/challenge-amigo-secreto) 
+[![Anotações](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=anotacoes)](https://github.com/Israel-SoaresPorto/anotacoes)
+[![Amigo Secreto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=Catalogo_de_Filmes)](https://github.com/Israel-SoaresPorto/Catalogo_de_Filmes) 
+[![Amigo Secreto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=decodificador_de_texto)](https://github.com/Israel-SoaresPorto/decodificador_de_texto)
 
 ## Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=orange&color=red)](https://is.gd/wWyYSB) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=lightblue&color=blue)](https://www.linkedin.com/in/israel-soares-porto-b24bb8241/) [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Israel-SoaresPorto)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=orange&color=red)](https://is.gd/wWyYSB) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=lightblue&color=blue)](https://www.linkedin.com/in/israel-soares-porto-b24bb8241/) 
+[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Israel-SoaresPorto)
 
 ## GitHub Stats
 
