@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-👨‍🎓 Estudande de Graduação em Sistemas de Informação na Uninassau e recém-formado como Técnico em Desenvolvimento de Sistemas no SENAI
+👨‍🎓 Estudande de Graduação em Sistemas de Informação na Uninassau e recém-formado como Técnico em Desenvolvimento de Sistemas no SENAI  
 🌈♾️ Pessoa com Transtorno do Espectro Autista  
-🖥️ Foco em Desenvolvimento Front-end e Design de Interfaces(UI Design)
+🖥️ Foco em Desenvolvimento Front-end e Design de Interfaces(UI Design)  
 🔍 Cusiosidade para descobrir soluções e por em prática  
 💼 Buscando oportunidades na área para desenvolver minhas habilidades e evoluir ainda mais  
 
