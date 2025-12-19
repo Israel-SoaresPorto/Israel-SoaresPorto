@@ -4,7 +4,7 @@
 
 👨‍🎓 Estudande de Graduação em Sistemas de Informação na Uninassau e recém-formado como Técnico em Desenvolvimento de Sistemas no SENAI  
 🌈♾️ Pessoa com Transtorno do Espectro Autista  
-🖥️ Foco em Desenvolvimento Front-end e Design de Interfaces(UI Design), também com conhecimentos em back-end com Node.js  
+🖥️ Foco em Desenvolvimento Full-Stack (React/Node.JS) e Design de Interfaces(UI Design).
 🔍 Cusiosidade para descobrir soluções e por em prática  
 💼 Buscando oportunidades na área para desenvolver minhas habilidades e evoluir ainda mais  
 
@@ -12,13 +12,17 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26) 
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css&logoColor=white&color=%231572B6) 
-![JavaScript](https://img.shields.io/badge/javascript-1292899?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-1292899?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-1292899?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![NodeJS](https://img.shields.io/badge/nodejs-1292899?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E) 
 ![React](https://img.shields.io/badge/react-1292899?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) 
 ![NextJS](https://img.shields.io/badge/Next-1292899?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black) 
 ![TailwindCss](https://img.shields.io/badge/tailwindcss-1292899?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
-![Express.js](https://img.shields.io/badge/Express.js-1029928?style=for-the-badge&logo=express&logoColor=black)
-![Postgresql](https://img.shields.io/badge/postgres-1029928?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
+![Express.js](https://img.shields.io/badge/Express.js-1029928?style=for-the-badge&logo=express&logoColor=black&color=F0F1F3)
+![Nest.js](https://img.shields.io/badge/nestjs-1029928?style=for-the-badge&logo=nestjs&logoColor=red&color=black)
+![Postgresql](https://img.shields.io/badge/postgres-1029928?style=for-the-badge&logo=postgresql&logoColor=white&color=336690)
+![Docker](https://img.shields.io/badge/docker-1029928?style=for-the-badge&logo=docker&logoColor=white&color=0D4DF2)
+
 
 ## Projetos em destaque
 
