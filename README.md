@@ -26,10 +26,10 @@
 
 ## Projetos em destaque
 
-[![Sistema_de_Gerenciamento_de_TCC](https://github-readme-stats.vercel.app/api/pin/?username=Neukox&repo=Sistema_de_Gerenciamento_de_TCC)](https://github.com/Neukox/Sistema_De_Gerenciamento_De_TCC)
-[![Sistema de Gerenciamento de Chamados](https://github-readme-stats.vercel.app/api/pin/?username=Neukox&repo=Sistema_De_Gerenciamento_De_Chamados)](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados)
-[![Decodificador de Texto](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=decodificador_de_texto)](https://github.com/Israel-SoaresPorto/decodificador_de_texto)
-[![Anotações](https://github-readme-stats.vercel.app/api/pin/?username=Israel-SoaresPorto&repo=anotacoes)](https://github.com/Israel-SoaresPorto/anotacoes)
+[![Sistema_De_Gerenciamento_De_TCC](https://helio-github-stats.vercel.app/api/pin?username=Neukox&repo=Sistema_De_Gerenciamento_De_TCC&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://nice-readme.vercel.app/repo-pins)
+[![Sistema_De_Gerenciamento_De_Chamados](https://helio-github-stats.vercel.app/api/pin?username=Neukox&repo=Sistema_De_Gerenciamento_De_Chamados&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://nice-readme.vercel.app/repo-pins)
+[![MindTrack](https://helio-github-stats.vercel.app/api/pin?username=Neukox&repo=MindTrack&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://nice-readme.vercel.app/repo-pins)
+[![portfolio](https://helio-github-stats.vercel.app/api/pin?username=Israel-SoaresPorto&repo=portfolio&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://nice-readme.vercel.app/repo-pins)
 
 ## Contatos
 
@@ -39,6 +39,5 @@
 
 ## GitHub Stats
 
-[![Israel-SoaresPorto Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-SoaresPorto&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Israel-SoaresPorto GitHub stats](https://github-readme-stats.vercel.app/api?username=Israel-SoaresPorto&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Israel-SoaresPorto&custom_title=GitHub+Stats&theme=default&title_color=1f7ef9&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=Israel-SoaresPorto&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=5)](https://nice-readme.vercel.app/top-langs)
